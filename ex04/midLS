@@ -1,2 +1,2 @@
-ls -tp | paste -sd ', '
+ls -tmp
 
